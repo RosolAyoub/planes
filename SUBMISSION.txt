@@ -1,2 +1,2 @@
-Student ID(s): 326566353
+Student ID: 326566353
 Repository URL: https://github.com/RosolAyoub/planes.git
